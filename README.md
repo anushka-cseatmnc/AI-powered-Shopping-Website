@@ -77,7 +77,7 @@ This project aims to enhance the online shopping experience by integrating artif
 - **Databases**: PostgreSQL, MongoDB
 - **AI Libraries**: TensorFlow, PyTorch, Hugging Face Transformers
 - **Tools**: Elasticsearch, OpenCV, NLTK, SpaCy
-- **Deployment**: Heroku, Netlify, Vercel
+- **Deployment**:  Vercel
 
 ## 🛠️ ER Diagram
 - **User**: UserID, Name, Email, Preferences.
